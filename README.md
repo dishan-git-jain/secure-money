@@ -5,11 +5,11 @@ A production-grade decentralized peer-to-peer lending platform connecting borrow
 ##  Features
 
 - **Instant KYC**: PAN + OTP verification in under 2 minutes
--  **Blockchain Verified**: All transactions recorded on Ethereum/Polygon
+- **Blockchain Verified**: All transactions recorded on Ethereum/Polygon
 - **Peer-to-Peer Lending**: Direct connection between borrowers and lenders
 - *AI Risk Scoring**: Advanced algorithms assess borrower credibility
--  **Bank-Grade Security**: End-to-end encryption and secure data handling
--  **Mobile Responsive**: Works seamlessly on all devices
+- **Bank-Grade Security**: End-to-end encryption and secure data handling
+- **Mobile Responsive**: Works seamlessly on all devices
 
 ## Tech Stack
 
